@@ -8,9 +8,11 @@ int main() {
         printf("\nhello :::");
     }
     void ecrire() {
-        printf("hello9999");
+        printf("\nhello9999");
     }
-
+   
+    printf("exit");
     ecrire();
+    printf("GGGGGGG");
     return 0;
 }
